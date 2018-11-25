@@ -1,0 +1,15 @@
+{
+  "name": "disboardbump",
+  "version": "1.0.0",
+  "description": "Bump your Discord server automatically on Disboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-text-generator": "^1.0.5",
+    "discord.js": "^11.4.2"
+  }
+}

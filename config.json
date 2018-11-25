@@ -1,0 +1,5 @@
+{
+    "token": "your discord token here",
+    "channel": "your disboard bump channel id here",
+    "interval": "7200000"
+}
